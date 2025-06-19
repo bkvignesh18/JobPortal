@@ -45,9 +45,6 @@
                 <li class="nav-item">
                     <a class="nav-link" href="viewalljobs">All Jobs</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Contact</a>
-                </li>
             </ul>
         </div>
     </div>
